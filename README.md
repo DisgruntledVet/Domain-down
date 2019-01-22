@@ -5,7 +5,7 @@ you must sign up for free access to twilio api and follow directions to get phon
 must pip install schedule - terminal 
 must also pip install twilio - terminal 
 
-to run command in terminal it would be python domainalert.py 
+to run command in terminal it would be python alertdown.py 
 
 
 
